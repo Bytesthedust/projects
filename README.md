@@ -9,3 +9,6 @@ Before starting this project, I broke down the game to its basic steps to get an
 3b. if the word contains letters in the chosen word and are in the same position, they are highlighted green
 3c. if the word does not contain any letters in the chosen word, they are highlighted gray
 4. if the player correctly guesss the word in 6 or less guess, they win. Else they lose
+
+Searching for a list of five letter English words, I found a suitable file created by user charlesreid1, whom I will link below, and downloaded the file.
+https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt
